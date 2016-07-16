@@ -1,4 +1,80 @@
-## Mad science
+
+# awesome-nodejs-precise
+> list taken from [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs/), with star shown
+
+## TOC
+[Mad science](#mad-science)
+[Command-line apps](#command-line-apps)
+[Functional programming](#functional-programming)
+[HTTP](#http)
+[Debugging / Profiling](#debugging-profiling)
+[Logging](#logging)
+[Command-line utilities](#command-line-utilities)
+[Build tools](#build-tools)
+[Hardware](#hardware)
+[Templating](#templating)
+[Web frameworks](#web-frameworks)
+[Documentation](#documentation)
+[Filesystem](#filesystem)
+[Control flow Promises](#control-flow-promises)
+[Control flow Callbacks](#control-flow-callbacks)
+[Control flow Generators](#control-flow-generators)
+[Control flow Streams](#control-flow-streams)
+[Control flow Channels](#control-flow-channels)
+[Control flow Other](#control-flow-other)
+[Streams](#streams)
+[Real-time](#real-time)
+[Image](#image)
+[Text](#text)
+[Number](#number)
+[Math](#math)
+[Date](#date)
+[URL](#url)
+[Data validation](#data-validation)
+[Parsing](#parsing)
+[Humanize](#humanize)
+[Compression](#compression)
+[Network](#network)
+[Database Drivers](#database-drivers)
+[Database ODM / ORM](#database-odm-orm)
+[Database Query builder](#database-query-builder)
+[Database Other](#database-other)
+[Testing](#testing)
+[Security](#security)
+[Benchmarking](#benchmarking)
+[Minifiers](#minifiers)
+[Authentication](#authentication)
+[Email](#email)
+[Job queues](#job-queues)
+[Node.js management](#node-js-management)
+[Polyfills Node.js](#polyfills-node-js)
+[Polyfills JavaScript](#polyfills-java-script)
+[Natural language processing](#natural-language-processing)
+[Process management](#process-management)
+[Automation](#automation)
+[AST](#ast)
+[Static site generators](#static-site-generators)
+[Content management systems](#content-management-systems)
+[Forum](#forum)
+[Blogging](#blogging)
+[Weird](#weird)
+[Miscellaneous](#miscellaneous)
+[Tutorials](#tutorials)
+[Discovery](#discovery)
+[Articles](#articles)
+[Newsletters](#newsletters)
+[Videos](#videos)
+[Podcasts](#podcasts)
+[Books](#books)
+[Blogs](#blogs)
+[Courses](#courses)
+[Cheatsheets](#cheatsheets)
+[Tools](#tools)
+[Community](#community)
+[Miscellaneous](#miscellaneous)
+
+## Packages
+### Mad science
 |name|star|description|
 |----|----|-----------|
 | [webtorrent](https://github.com/feross/webtorrent) | not available now | Streaming torrent client for Node.js and the browser. |
@@ -21,7 +97,7 @@
 | [kad](https://github.com/kadtools/kad) | not available now | Kademlia distributed hash table. |
 
 
-## Command-line apps
+### Command-line apps
 |name|star|description|
 |----|----|-----------|
 | [pageres](https://github.com/sindresorhus/pageres) | not available now | Capture website screenshots. |
@@ -85,7 +161,7 @@
 | [atmo](https://github.com/Raathigesh/Atmo) | not available now | Server-side API mocking. |
 
 
-## Functional programming
+### Functional programming
 |name|star|description|
 |----|----|-----------|
 | [lodash](https://lodash.com) | not available now | A utility library delivering consistency, customization, performance, &amp; extras. A better and faster Underscore.js. |
@@ -101,7 +177,7 @@
 | [Kefir.js](https://github.com/rpominov/kefir) | not available now | Reactive library with focus on high performance and low memory usage. |
 
 
-## HTTP
+### HTTP
 |name|star|description|
 |----|----|-----------|
 | [got](https://github.com/sindresorhus/got) | not available now | A nicer interface to the built-in <code>http</code> module. |
@@ -119,7 +195,7 @@
 | [node-fetch](https://github.com/bitinn/node-fetch) | not available now | <code>window.fetch</code> for Node.js. |
 
 
-## Debugging / Profiling
+### Debugging / Profiling
 |name|star|description|
 |----|----|-----------|
 | [ironNode](https://github.com/s-a/iron-node) | not available now | Node.js debugger supporting ES2015 out of the box. |
@@ -139,7 +215,7 @@
 | [ctrace](https://github.com/automation-stack/ctrace) | not available now | Well-formatted and improved trace system calls and signals. |
 
 
-## Logging
+### Logging
 |name|star|description|
 |----|----|-----------|
 | [winston](https://github.com/winstonjs/winston) | not available now | A multi-transport async logging library. |
@@ -149,7 +225,7 @@
 | [storyboard](https://github.com/guigrpa/storyboard) | not available now | End-to-end, hierarchical, real-time, colorful logs and stories. |
 
 
-## Command-line utilities
+### Command-line utilities
 |name|star|description|
 |----|----|-----------|
 | [chalk](https://github.com/chalk/chalk) | not available now | Terminal string styling done right. |
@@ -194,7 +270,7 @@
 | [listr](https://github.com/samverschueren/listr) | not available now | Terminal task list. |
 
 
-## Build tools
+### Build tools
 |name|star|description|
 |----|----|-----------|
 | [gulp](http://gulpjs.com) | not available now | Streaming and fast build system that favors code over config. |
@@ -209,7 +285,7 @@
 | [Fly](https://github.com/bucaran/fly) | not available now | Modern build system based in co-routines, generators and promises. |
 
 
-## Hardware
+### Hardware
 |name|star|description|
 |----|----|-----------|
 | [johnny-five](https://github.com/rwaldron/johnny-five) | not available now | Firmata based Arduino Framework. |
@@ -219,7 +295,7 @@
 | [i2c-bus](https://github.com/fivdi/i2c-bus) | not available now | I2C serial bus access. |
 
 
-## Templating
+### Templating
 |name|star|description|
 |----|----|-----------|
 | [marko](https://github.com/marko-js/marko) | not available now | A fast and lightweight HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags. |
@@ -230,7 +306,7 @@
 | [Pug](https://github.com/pugjs/pug) | not available now | High-performance template engine heavily influenced by Haml. |
 
 
-## Web frameworks
+### Web frameworks
 |name|star|description|
 |----|----|-----------|
 | [Koa](http://koajs.com) | not available now | A new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. |
@@ -248,7 +324,7 @@
 | [ThinkJS](https://thinkjs.org) | not available now | Framework with ES2015+ support, WebSockets, REST API. |
 
 
-## Documentation
+### Documentation
 |name|star|description|
 |----|----|-----------|
 | [Docco](http://jashkenas.github.io/docco/) | not available now | A quick-and-dirty documentation generator which produces an HTML document that displays your comments intermingled with your code. |
@@ -261,7 +337,7 @@
 | [ESDoc](https://esdoc.org) | not available now | Documentation generator targeting ES2015, attaching test code and measuring documentation coverage. |
 
 
-## Filesystem
+### Filesystem
 |name|star|description|
 |----|----|-----------|
 | [del](https://github.com/sindresorhus/del) | not available now | Delete files/folders using globs. |
@@ -284,9 +360,7 @@
 | [sander](https://github.com/rich-harris/sander) | not available now | Promise-based replacement for the <code>fs</code> module. |
 
 
-## Control flow Promises
-
-
+### Control flow Promises
 |name|star|description|
 |----|----|-----------|
 | [Bluebird](https://github.com/petkaantonov/bluebird) | not available now | A fully featured promise library with focus on innovative features and performance. |
@@ -296,9 +370,7 @@
 | [delay](https://github.com/sindresorhus/delay) | not available now | Delay a promise a specified amount of time. |
 
 
-## Control flow Callbacks
-
-
+### Control flow Callbacks
 |name|star|description|
 |----|----|-----------|
 | [each-async](https://github.com/sindresorhus/each-async) | not available now | Async concurrent iterator like forEach. |
@@ -307,9 +379,7 @@
 | [after-all-results](https://github.com/watson/after-all-results) | not available now | Bundle results of async functions calls into one callback with all the results. |
 
 
-## Control flow Generators
-
-
+### Control flow Generators
 |name|star|description|
 |----|----|-----------|
 | [co](https://github.com/tj/co) | not available now | The ultimate generator based flow-control goodness. |
@@ -318,31 +388,25 @@
 | [iterum](https://github.com/xgbuils/iterum) | not available now | Build generator pipelines using Array-like methods. |
 
 
-## Control flow Streams
-
-
+### Control flow Streams
 |name|star|description|
 |----|----|-----------|
 | [Highland.js](http://highlandjs.org) | not available now | Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams. |
 
 
-## Control flow Channels
-
-
+### Control flow Channels
 |name|star|description|
 |----|----|-----------|
 | [js-csp](https://github.com/jlongster/js-csp) | not available now | Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go). |
 
 
-## Control flow Other
-
-
+### Control flow Other
 |name|star|description|
 |----|----|-----------|
 | [zone](https://github.com/strongloop/zone) | not available now | Provides a way to group and track resources and errors across asynchronous operations. |
 
 
-## Streams
+### Streams
 |name|star|description|
 |----|----|-----------|
 | [through2](https://github.com/rvagg/through2) | not available now | Tiny wrapper around streams2 Transform to avoid explicit subclassing noise. |
@@ -364,7 +428,7 @@
 | [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream) | not available now | Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes. |
 
 
-## Real-time
+### Real-time
 |name|star|description|
 |----|----|-----------|
 | [Socket.io](http://socket.io) | not available now | Enables real-time bidirectional event-based communication. |
@@ -377,7 +441,7 @@
 | [Kalm](https://github.com/fed135/Kalm) | not available now | Modular socket wrapper and optimizer. |
 
 
-## Image
+### Image
 |name|star|description|
 |----|----|-----------|
 | [sharp](https://github.com/lovell/sharp) | not available now | The fastest module for resizing JPEG, PNG, WebP and TIFF images. |
@@ -390,7 +454,7 @@
 | [probe-image-size](https://github.com/nodeca/probe-image-size) | not available now | Get the size of most image formats without a full download. |
 
 
-## Text
+### Text
 |name|star|description|
 |----|----|-----------|
 | [Underscore.string](https://github.com/epeli/underscore.string) | not available now | Collection of string manipulation utilities. |
@@ -412,7 +476,7 @@
 | [matcher](https://github.com/sindresorhus/matcher) | not available now | Simple wildcard matching. |
 
 
-## Number
+### Number
 |name|star|description|
 |----|----|-----------|
 | [random-int](https://github.com/sindresorhus/random-int) | not available now | Generate a random integer. |
@@ -421,7 +485,7 @@
 | [round-to](https://github.com/sindresorhus/round-to) | not available now | Round a number to a specific number of decimal places: <code>1.234</code> &#x2192; <code>1.2</code>. |
 
 
-## Math
+### Math
 |name|star|description|
 |----|----|-----------|
 | [ndarray](https://github.com/scijs/ndarray) | not available now | Multidimensional arrays. |
@@ -431,7 +495,7 @@
 | [algebra](https://github.com/fibo/algebra) | not available now | Algebraic structures. |
 
 
-## Date
+### Date
 |name|star|description|
 |----|----|-----------|
 | [Moment.js](http://momentjs.com) | not available now | Parse, validate, manipulate, and display dates. |
@@ -440,7 +504,7 @@
 | [tz-format](https://github.com/samverschueren/tz-format) | not available now | Format a date with timezone: <code>2015-11-30T10:40:35+01:00</code>. |
 
 
-## URL
+### URL
 |name|star|description|
 |----|----|-----------|
 | [normalize-url](https://github.com/sindresorhus/normalize-url) | not available now | Normalize a URL. |
@@ -452,7 +516,7 @@
 | [embedza](https://github.com/nodeca/embedza) | not available now | Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags. |
 
 
-## Data validation
+### Data validation
 |name|star|description|
 |----|----|-----------|
 | [joi](https://github.com/hapijs/joi) | not available now | Object schema description language and validator for JavaScript objects. |
@@ -461,7 +525,7 @@
 | [schema-inspector](https://github.com/Atinux/schema-inspector) | not available now | JSON API sanitization and validation. |
 
 
-## Parsing
+### Parsing
 |name|star|description|
 |----|----|-----------|
 | [remark](https://github.com/wooorm/remark) | not available now | Markdown processor powered by plugins. |
@@ -488,7 +552,7 @@
 | [google-libphonenumber](https://github.com/seegno/google-libphonenumber) | not available now | Parse, format, store and validate phone numbers. |
 
 
-## Humanize
+### Humanize
 |name|star|description|
 |----|----|-----------|
 | [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) | not available now | Convert bytes to a human readable string: <code>1337</code> &#x2192; <code>1.34 kB</code>. |
@@ -499,7 +563,7 @@
 | [read-art](https://github.com/Tjatse/node-readability) | not available now | Extract readable content from any page. |
 
 
-## Compression
+### Compression
 |name|star|description|
 |----|----|-----------|
 | [Archiver](https://github.com/archiverjs/node-archiver) | not available now | Streaming interface for archive generation, supporting ZIP and TAR. |
@@ -509,7 +573,7 @@
 | [decompress](https://github.com/kevva/decompress) | not available now | A pluggable decompression module with support for <code>tar</code>, <code>tar.gz</code> and <code>zip</code> files out of the box. |
 
 
-## Network
+### Network
 |name|star|description|
 |----|----|-----------|
 | [get-port](https://github.com/sindresorhus/get-port) | not available now | Get an available port. |
@@ -518,9 +582,7 @@
 | [polo](https://github.com/mafintosh/polo) | not available now | Zero-config service discovery. |
 
 
-## Database Drivers
-
-
+### Database Drivers
 |name|star|description|
 |----|----|-----------|
 | [LevelUP](https://github.com/Level/levelup) | not available now | LevelDB. |
@@ -532,9 +594,7 @@
 | [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) | not available now | Aerospike client. |
 
 
-## Database ODM / ORM
-
-
+### Database ODM / ORM
 |name|star|description|
 |----|----|-----------|
 | [Bookshelf](http://bookshelfjs.org) | not available now | ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js. |
@@ -550,23 +610,19 @@
 | [Objection.js](https://github.com/Vincit/objection.js) | not available now | Lightweight ORM built on the SQL query builder Knex. |
 
 
-## Database Query builder
-
-
+### Database Query builder
 |name|star|description|
 |----|----|-----------|
 | [Knex](http://knexjs.org) | not available now | A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use. |
 
 
-## Database Other
-
-
+### Database Other
 |name|star|description|
 |----|----|-----------|
 | [NeDB](https://github.com/louischatriot/nedb) | not available now | Embedded persistent database written in JavaScript. |
 
 
-## Testing
+### Testing
 |name|star|description|
 |----|----|-----------|
 | [AVA](https://ava.li) | not available now | Futuristic test runner. |
@@ -590,7 +646,7 @@
 | [WebdriverIO](http://webdriver.io) | not available now | Automated testing based on the WebDriver protocol. |
 
 
-## Security
+### Security
 |name|star|description|
 |----|----|-----------|
 | [snyk](https://github.com/Snyk/snyk) | not available now | CLI and build-time tool to find &amp; fix vulnerable npm dependencies. |
@@ -598,14 +654,14 @@
 | [RegEx-DoS](https://github.com/jagracey/RegEx-DoS) | not available now | CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project. |
 
 
-## Benchmarking
+### Benchmarking
 |name|star|description|
 |----|----|-----------|
 | [Benchmark.js](http://benchmarkjs.com) | not available now | A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results. |
 | [matcha](https://github.com/logicalparadox/matcha) | not available now | A caffeine-driven, simplistic approach to benchmarking. |
 
 
-## Minifiers
+### Minifiers
 |name|star|description|
 |----|----|-----------|
 | [UglifyJS2](http://lisperator.net/uglifyjs/) | not available now | JavaScript minifier. |
@@ -614,7 +670,7 @@
 | [imagemin](https://github.com/imagemin/imagemin) | not available now | Image minifier. |
 
 
-## Authentication
+### Authentication
 |name|star|description|
 |----|----|-----------|
 | [Passport](http://passportjs.org) | not available now | Simple, unobtrusive authentication. |
@@ -624,21 +680,21 @@
 | [Grant](https://github.com/simov/grant) | not available now | OAuth middleware for Express, Koa, and Hapi. |
 
 
-## Email
+### Email
 |name|star|description|
 |----|----|-----------|
 | [Nodemailer](https://github.com/andris9/Nodemailer) | not available now | The fastest way to handle email. |
 | [emailjs](https://github.com/eleith/emailjs) | not available now | Send text/HTML emails with attachments to any SMTP server. |
 
 
-## Job queues
+### Job queues
 |name|star|description|
 |----|----|-----------|
 | [kue](https://github.com/Automattic/kue) | not available now | Priority job queue backed by Redis. |
 | [bull](https://github.com/OptimalBits/bull) | not available now | Persistent job and message queue. |
 
 
-## Node.js management
+### Node.js management
 |name|star|description|
 |----|----|-----------|
 | [n](https://github.com/tj/n) | not available now | Node.js version management. |
@@ -647,9 +703,7 @@
 | [nvm for Windows](https://github.com/coreybutler/nvm-windows) | not available now | Version management for Windows. |
 
 
-## Polyfills Node.js
-
-
+### Polyfills Node.js
 |name|star|description|
 |----|----|-----------|
 | [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) | not available now | Simple <code>setImmediate()</code> ponyfill. |
@@ -671,9 +725,7 @@
 | [deep-strict-equal](https://github.com/sindresorhus/deep-strict-equal) | not available now | Test for deep equality - Node.js <code>assert.deepStrictEqual()</code> algorithm as a standalone module. |
 
 
-## Polyfills JavaScript
-
-
+### Polyfills JavaScript
 |name|star|description|
 |----|----|-----------|
 | [object-assign](https://github.com/sindresorhus/object-assign) | not available now | ES2015 <code>Object.assign()</code> ponyfill. |
@@ -683,7 +735,7 @@
 | [es6-tools](https://github.com/addyosmani/es6-tools#polyfills) | not available now | More ES2015 polyfills at . |
 
 
-## Natural language processing
+### Natural language processing
 |name|star|description|
 |----|----|-----------|
 | [retext](https://github.com/wooorm/retext) | not available now | An extensible natural language system. |
@@ -692,7 +744,7 @@
 | [natural](https://github.com/NaturalNode/natural) | not available now | A general natural language facility. |
 
 
-## Process management
+### Process management
 |name|star|description|
 |----|----|-----------|
 | [PM2](https://github.com/Unitech/pm2) | not available now | Advanced Process Manager. |
@@ -706,20 +758,20 @@
 | [naught](https://github.com/andrewrk/naught) | not available now | Process manager with zero downtime deployment. |
 
 
-## Automation
+### Automation
 |name|star|description|
 |----|----|-----------|
 | [robotjs](https://github.com/octalmage/robotjs) | not available now | Desktop Automation: control the mouse, keyboard and read the screen. |
 
 
-## AST
+### AST
 |name|star|description|
 |----|----|-----------|
 | [Acorn](https://github.com/ternjs/acorn) | not available now | A tiny, fast JavaScript parser. |
 | [Rocambole](https://github.com/millermedeiros/rocambole) | not available now | Recursively walk and transform JavaScript AST. |
 
 
-## Static site generators
+### Static site generators
 |name|star|description|
 |----|----|-----------|
 | [Metalsmith](http://www.metalsmith.io) | not available now | An extremely simple, pluggable static site generator. |
@@ -728,7 +780,7 @@
 | [DocPad](https://github.com/docpad/docpad) | not available now | Static site generator with dynamic abilities and huge plugin ecosystem. |
 
 
-## Content management systems
+### Content management systems
 |name|star|description|
 |----|----|-----------|
 | [KeystoneJS](http://keystonejs.com) | not available now | CMS and web application platform built on Express and MongoDB. |
@@ -736,20 +788,20 @@
 | [Apostrophe2](http://apostrophenow.org) | not available now | A content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB. |
 
 
-## Forum
+### Forum
 |name|star|description|
 |----|----|-----------|
 | [nodeBB](https://nodebb.org) | not available now | A better forum platform for the modern web. |
 
 
-## Blogging
+### Blogging
 |name|star|description|
 |----|----|-----------|
 | [ghost](https://ghost.org) | not available now | Simple, powerful publishing platform that allows you to share your story with the world. |
 | [Hexo](https://hexo.io) | not available now | Fast, simple and powerful blogging framework. |
 
 
-## Weird
+### Weird
 |name|star|description|
 |----|----|-----------|
 | [superb](https://github.com/sindresorhus/superb) | not available now | Get superb like words. |
@@ -762,7 +814,7 @@
 | [cows](https://github.com/sindresorhus/cows) | not available now | ASCII cows. |
 
 
-## Miscellaneous
+### Miscellaneous
 |name|star|description|
 |----|----|-----------|
 | [execa](https://github.com/sindresorhus/execa) | not available now | A better <code>child_process</code>. |
@@ -805,7 +857,7 @@
 | [hypernova](https://github.com/airbnb/hypernova) | not available now | A service for server-side rendering your JavaScript views. |
 
 
-## Tutorials
+### Tutorials
 |name|star|description|
 |----|----|-----------|
 | [Nodeschool](http://nodeschool.io) | not available now | Learn Node.js with interactive lessons. |
@@ -817,7 +869,7 @@
 | [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) | not available now | Introduction to Node.js core features and asynchronous JavaScript. |
 
 
-## Discovery
+### Discovery
 |name|star|description|
 |----|----|-----------|
 | [npms](https://npms.io) | not available now | Superb package search with deep analysis of package quality using a <a href="https://npms.io/about">myriad of metrics</a>. |
@@ -826,7 +878,7 @@
 | [npmcompare.com](https://npmcompare.com) | not available now | Compare and discover npm packages. |
 
 
-## Articles
+### Articles
 |name|star|description|
 |----|----|-----------|
 | [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors) | not available now |  |
@@ -839,14 +891,14 @@
 | [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/) | not available now |  |
 
 
-## Newsletters
+### Newsletters
 |name|star|description|
 |----|----|-----------|
 | [node weekly](http://nodeweekly.com) | not available now | Weekly e-mail round-up of Node.js news and articles. |
 | [nmotw](http://nmotw.in) | not available now | Node Module Of The Week, weekly dose of hand picked node modules. |
 
 
-## Videos
+### Videos
 |name|star|description|
 |----|----|-----------|
 | [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I) | not available now |  |
@@ -860,14 +912,14 @@
 | [Node Interactive 2015](https://github.com/duffn/nodeinteractive-2015) | not available now | List of talks, keynotes and panels from the 2015 Node Interactive conference. |
 
 
-## Podcasts
+### Podcasts
 |name|star|description|
 |----|----|-----------|
 | [NodeUp](http://nodeup.com) | not available now |  |
 | [Mostly Node](http://mostlynode.com) | not available now |  |
 
 
-## Books
+### Books
 |name|star|description|
 |----|----|-----------|
 | [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572) | not available now |  |
@@ -881,7 +933,7 @@
 | [Secure Your Node.js Web Application](http://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856) | not available now |  |
 
 
-## Blogs
+### Blogs
 |name|star|description|
 |----|----|-----------|
 | [Node.js blog](https://nodejs.org/en/blog/) | not available now |  |
@@ -889,21 +941,21 @@
 | [webapplog.com](http://webapplog.com/tag/node-js/) | not available now | &#x2014; Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan. |
 
 
-## Courses
+### Courses
 |name|star|description|
 |----|----|-----------|
 | [Real Time Web with Node.js](http://campus.codeschool.com/auth/codeschool) | not available now |  |
 | [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs) | not available now |  |
 
 
-## Cheatsheets
+### Cheatsheets
 |name|star|description|
 |----|----|-----------|
 | [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4) | not available now |  |
 | [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) | not available now | Answering common questions about streams, covering pagination, events, and more. |
 
 
-## Tools
+### Tools
 |name|star|description|
 |----|----|-----------|
 | [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) | not available now | Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub. |
@@ -912,7 +964,7 @@
 | [Tonic](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) | not available now | Embed a Node.js environment on any website. |
 
 
-## Community
+### Community
 |name|star|description|
 |----|----|-----------|
 | [#node.js on Freenode](http://webchat.freenode.net/?channels=node.js) | not available now |  |
@@ -921,11 +973,12 @@
 | [Twitter](https://twitter.com/nodejs) | not available now |  |
 
 
-## Miscellaneous
+### Miscellaneous
 |name|star|description|
 |----|----|-----------|
 | [nodebots](http://nodebots.io) | not available now | Robots powered by JavaScript. |
 | [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) | not available now | Boilerplate to kickstart creating a node module. |
 | [generator-nm](https://github.com/sindresorhus/generator-nm) | not available now | Scaffold out a node module. |
 | [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) | not available now | Resources for writing and testing cross-platform code. |
+
 
