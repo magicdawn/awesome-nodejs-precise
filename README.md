@@ -284,7 +284,7 @@
 | [sander](https://github.com/rich-harris/sander) | not available now | Promise-based replacement for the <code>fs</code> module. |
 
 
-## Control flowPromises
+## Control flow Promises
 
 
 |name|star|description|
@@ -296,7 +296,7 @@
 | [delay](https://github.com/sindresorhus/delay) | not available now | Delay a promise a specified amount of time. |
 
 
-## Control flowCallbacks
+## Control flow Callbacks
 
 
 |name|star|description|
@@ -307,7 +307,7 @@
 | [after-all-results](https://github.com/watson/after-all-results) | not available now | Bundle results of async functions calls into one callback with all the results. |
 
 
-## Control flowGenerators
+## Control flow Generators
 
 
 |name|star|description|
@@ -318,7 +318,7 @@
 | [iterum](https://github.com/xgbuils/iterum) | not available now | Build generator pipelines using Array-like methods. |
 
 
-## Control flowStreams
+## Control flow Streams
 
 
 |name|star|description|
@@ -326,7 +326,7 @@
 | [Highland.js](http://highlandjs.org) | not available now | Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams. |
 
 
-## Control flowChannels
+## Control flow Channels
 
 
 |name|star|description|
@@ -334,7 +334,7 @@
 | [js-csp](https://github.com/jlongster/js-csp) | not available now | Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go). |
 
 
-## Control flowOther
+## Control flow Other
 
 
 |name|star|description|
@@ -518,7 +518,7 @@
 | [polo](https://github.com/mafintosh/polo) | not available now | Zero-config service discovery. |
 
 
-## DatabaseDrivers
+## Database Drivers
 
 
 |name|star|description|
@@ -532,7 +532,7 @@
 | [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) | not available now | Aerospike client. |
 
 
-## DatabaseODM / ORM
+## Database ODM / ORM
 
 
 |name|star|description|
@@ -550,7 +550,7 @@
 | [Objection.js](https://github.com/Vincit/objection.js) | not available now | Lightweight ORM built on the SQL query builder Knex. |
 
 
-## DatabaseQuery builder
+## Database Query builder
 
 
 |name|star|description|
@@ -558,7 +558,7 @@
 | [Knex](http://knexjs.org) | not available now | A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use. |
 
 
-## DatabaseOther
+## Database Other
 
 
 |name|star|description|
@@ -647,7 +647,7 @@
 | [nvm for Windows](https://github.com/coreybutler/nvm-windows) | not available now | Version management for Windows. |
 
 
-## PolyfillsNode.js
+## Polyfills Node.js
 
 
 |name|star|description|
@@ -671,7 +671,7 @@
 | [deep-strict-equal](https://github.com/sindresorhus/deep-strict-equal) | not available now | Test for deep equality - Node.js <code>assert.deepStrictEqual()</code> algorithm as a standalone module. |
 
 
-## PolyfillsJavaScript
+## Polyfills JavaScript
 
 
 |name|star|description|
