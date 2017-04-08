@@ -1,5 +1,7 @@
 
 # awesome-nodejs-precise
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/awesome-nodejs-precise.svg)](https://greenkeeper.io/)
 > list taken from [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs/), with star shown
 
 ## TOC
