@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "co": "^4.6.0",
     "express": "^4.14.0",
-    "fs-extra": "^0.30.0",
+    "fs-extra": "^2.1.2",
     "lodash": "^4.13.1",
-    "superagent": "^2.1.0"
+    "superagent": "^3.5.2"
   }
 }
